@@ -1,4 +1,4 @@
-# SkinsRestorerX
+## SkinsRestorerX
 
 <p align="center">
 <a href="https://github.com/SkinsRestorer/SkinsRestorerX/releases/latest/download/SkinsRestorer.jar"><img src="https://img.shields.io/github/downloads/SkinsRestorer/SkinsRestorerX/latest/total.svg" alt="Downloads"></a>
