@@ -40,7 +40,7 @@ public class PlayerJoin extends LoginProfileListener implements Listener {
     private static boolean resourcePack;
     private final SkinsRestorer plugin;
 
-    @EventHandler
+    @EventHandler (priority = EventPriority.LOWEST)
     public void onJoin(final PlayerJoinEvent event) {
         LoginProfileEvent profileEvent = wrap(event);
 
